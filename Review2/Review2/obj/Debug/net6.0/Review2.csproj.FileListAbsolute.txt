@@ -1,0 +1,15 @@
+C:\Users\91997\Desktop\Review2\Review2\bin\Debug\net6.0\Review2.exe
+C:\Users\91997\Desktop\Review2\Review2\bin\Debug\net6.0\Review2.deps.json
+C:\Users\91997\Desktop\Review2\Review2\bin\Debug\net6.0\Review2.runtimeconfig.json
+C:\Users\91997\Desktop\Review2\Review2\bin\Debug\net6.0\Review2.dll
+C:\Users\91997\Desktop\Review2\Review2\bin\Debug\net6.0\Review2.pdb
+C:\Users\91997\Desktop\Review2\Review2\obj\Debug\net6.0\Review2.csproj.AssemblyReference.cache
+C:\Users\91997\Desktop\Review2\Review2\obj\Debug\net6.0\Review2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91997\Desktop\Review2\Review2\obj\Debug\net6.0\Review2.AssemblyInfoInputs.cache
+C:\Users\91997\Desktop\Review2\Review2\obj\Debug\net6.0\Review2.AssemblyInfo.cs
+C:\Users\91997\Desktop\Review2\Review2\obj\Debug\net6.0\Review2.csproj.CoreCompileInputs.cache
+C:\Users\91997\Desktop\Review2\Review2\obj\Debug\net6.0\Review2.dll
+C:\Users\91997\Desktop\Review2\Review2\obj\Debug\net6.0\refint\Review2.dll
+C:\Users\91997\Desktop\Review2\Review2\obj\Debug\net6.0\Review2.pdb
+C:\Users\91997\Desktop\Review2\Review2\obj\Debug\net6.0\Review2.genruntimeconfig.cache
+C:\Users\91997\Desktop\Review2\Review2\obj\Debug\net6.0\ref\Review2.dll
